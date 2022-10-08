@@ -1,0 +1,4 @@
+# ignore les fichiers json et xml
+
+*.json
+*.xml
